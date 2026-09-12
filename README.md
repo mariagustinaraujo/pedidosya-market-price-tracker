@@ -2,6 +2,12 @@
 
 A Python scraper that collects visible promotions from the PedidosYa Market Android app using ADB and UIAutomator. It calculates effective discounts, exports CSV files, and generates a summary of each run.
 
+## Educational purpose
+
+This project is intended for educational purposes: learning Python automation, UI parsing, and effective discount calculations. It is independent and is not affiliated with or endorsed by PedidosYa.
+
+An educational purpose does not grant permission to collect data or override applicable laws or platform terms. Obtain any required authorization before running the scraper, respect access restrictions, and do not use it to bypass security controls. The included tests use synthetic data and can be run without accessing PedidosYa.
+
 ## Features
 
 - Navigates between sections using the app's “Continuar a” (“Continue to”) button.
