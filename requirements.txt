@@ -1,0 +1,1 @@
+# Python 3.10+; solo biblioteca estándar. ADB se instala por separado.
